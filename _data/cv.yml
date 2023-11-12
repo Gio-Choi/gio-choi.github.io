@@ -1,97 +1,137 @@
-- title: General Information
+- title: Basics
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Jiwoong (Gio) Choi
+    - name: Email
+      value: <a href=mailto:jiwung22@gmail.com> jiwung22@gmail.com </a>
+    - name: Url
+      value: <a href=https://gio-choi.github.io> https://gio-choi.github.io </a>
+    - name : Linkedin
+      value: <a href=https://www.linkedin.com/in/giochoi22> https://www.linkedin.com/in/giochoi22 </a>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: <a href=https://macss.uchicago.edu> Masters in Computational Social Science </a>
+      institution: The University of Chicago, Chicago, IL, US
+      year: 2024 - 2026
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: <a href=https://www.purdue.edu> Visiting Scholar, Department of Computer & IT </a>
+      institution: Purdue University, West Lafayette, ID, US      
+      year: 2022
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
-- title: Experience
+    - title: <a href=https://www.khu.ac.kr/eng/main/index.do> Bachelor of Economics <br> Bachelor of Engineering in Data Science </a>
+      institution: Kyung Hee University, Seoul, South Korea
+      year: 2017 - 2023
+      
+
+- title: Work
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research & Data Intern
+      maindescription: <i> United Nations </i>
+      location: Seoul
+      year: 08.23 - Present
+      description:  
+
+    - title: Technical Engineer Intern
+      maindescription: <i> Cisco Systems </i>
+      location: Seoul            
+      year: 06.23 - 08.23      
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Engaged in a Global Sales internship, actively collaborating with pre-sales professionals and engineers across the Asia Pacific region.
+        - Leveraged Networking/Cloud knowledge to effectively communicate and demonstrate the value proposition of solutions/products to clients.
+        - Taught computer networking fundamentals and guided topology implementation for students at a CSR event.
+        - Assisted Cisco API training sessions for clients.
+
+    - title: Visiting Scholar, Department of Computer & IT
+      maindescription: <i> Purdue University, West Lafayette  </i>
+      location: Indiana, US
+      year: 04.22 - 08.22
       description:
-        - Description 1.
-        - Description 2.
+        - Developed the Perception system of Autonomous Vehicle in ROS and Linux.  
+        - Collected video and GPS sensor data, preprocessed in the form of a matrix by 'OpenCV.'
+        - Built the algorithm using 20 classes in C++ and created a map.
+        - Published and Presented 'Outdoor Simultaneous Localization and Mapping (SLAM) and Path Planning Algorithm for Mobile Robot’ at the IEEE Conference on Robotic Computing.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: IT Audit Intern
+      maindescription: <i> PricewaterhouseCoopers (PwC) SAMIL </i>
+      location: Seoul  
+      year: 01.22 - 02.22
       description:
+       - Cleansed and Preprocessed the financial statements data of 60 companies in SQL. 
+       - Developed the code to ETL (Extract, Transform, Load) data utilizing VBA & Excel.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Police Sergent
+      maindescription: <i> National Police Agency / ROK Conscripted Military Service </i>
 
-- title: Open Source Projects
+      location: Seoul
+      year: 2018 - 2020
+
+- title: Publication
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2022
+      items:
+        - <b> IEEE-IRC </b> Outdoor Simultaneous Localization and Mapping (SLAM) and Path Planning algorithm for mobile robot (Seongil Heo, Jueun Mun*, Jiwoong Choi*, Jiwon Park*, Eric T. Matson)         
 
-- title: Honors and Awards
+- title: Technical Skills
+  type: map
+  contents:
+    - name: Language
+      value: Python3, C++, R, SQL
+    - name: OS & Infra
+      value: Linux, Docker, ROS, Git
+    - name: ML & Data Analysis
+      value: Sci-kit learn, PyTorch, Keras
+
+- title: Fellowships and Honors
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
+      items:
+        - Bright Society Fellowship, Kyung Hee University 
+
+    - year: 2022
+      items:
+        - SW Festival Grand Prize, Kyung Hee University
+        - Advanced Data Analytics Semi-Professional Certificate, Ministry of Science and ICT
+
+    - year: 2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Bright Society Fellowship, Kyung Hee University
+        - Software-Membership Fellowship, Kyung Hee University
+        - Public Data Analysis Certificate, National IT Industry Promotion Agency
+        - Big Data, AI education Certificate & Top Prize (160 hours), Seoul Business Agency
+     
 
-- title: Academic Interests
+
+- title: Relevant Coursework
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Math & Statistics
+      items: Calculus 1, Calculus 2, Linear Algebra, Differential Equations, Data Science, Data Mining, Statistics of Big Data, Probability and Random Variables, Applied Statistics, Financial Data Analysis        
+    - title: Economics
+      items: Principle of Economics, Mathematics for Economics, Principle of Economics 2, Economic Statistics, Econometrics, Microeconomics, Macroeconomics, Theory of Financial Systems, Principles of Market Economy, Start-Ups and Capital Market, Economics of Money, Banking & Financial Markets, Capstone Design (Economics), Global Market and Business, Special Topics on Finance
+    - title: Computer Science & Engineering
+      items: Object-oriented Programming, Data Structures, Algorithm Analysis, Machine Learning, Data Analysis Capstone Design, Web and Python Programming, Design Thinking, Software coding for creative thinking, Capstone Design in Software Convergence Engineering, Software Development Methods and Tools
 
-- title: Other Interests
-  type: list
+- title: Language
+  type: map
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - name: English
+      value: Full professional proficiency
+    - name: Korean
+      value: Native
+    
