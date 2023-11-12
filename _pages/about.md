@@ -6,7 +6,7 @@ subtitle: Incoming Master's student in <a href=https://macss.uchicago.edu> Compu
 
 profile:
   align: right
-  image: profile.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>555 your office number</p>
