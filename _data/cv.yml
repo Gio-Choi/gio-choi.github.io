@@ -127,6 +127,12 @@
     - title: Computer Science & Engineering
       items: Object-oriented Programming, Data Structures, Algorithm Analysis, Machine Learning, Data Analysis Capstone Design, Web and Python Programming, Design Thinking, Software coding for creative thinking, Capstone Design in Software Convergence Engineering, Software Development Methods and Tools
 
+- title: Teaching
+  type: map
+  contents:
+    - name: Statistics of Big Data
+      value: Teaching Assistant · Spring 2023  & Fall 2021 
+    
 - title: Language
   type: map
   contents:

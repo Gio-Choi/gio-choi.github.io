@@ -17,7 +17,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    # gem 'mini_racer' #should be commented
+    # gem 'mini_racer' #should be commented before deployment
     
     gem 'unicode_utils'
     gem 'webrick'

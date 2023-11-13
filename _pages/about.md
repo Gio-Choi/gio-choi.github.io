@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Master's student in <a href=https://macss.uchicago.edu> Computational Social Science </a> at <span style="color:#800000">The University of Chicago</span> 
+subtitle: 
 
 profile:
   align: right
@@ -19,7 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there. Welcome to my website.
+Hi there. I'm a incoming Master's student in [Computational Social Science](https://macss.uchicago.edu) at [The University of Chicago](https://www.uchicago.edu). I love analyzing society through Data Science. 
 
-Still working on my website.
+I'm currently working for United Nations as a Research and Data Intern.
+
+Please take a look at my [Projects](/publications/) and [CV](/cv/) and feel free to reach out to me. [jiwung22@gmail.com](mailto:jiwung22@gmail.com) 
+
 

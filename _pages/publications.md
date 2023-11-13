@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Projects
-description: Still working on this page
+description: For more details, click the ABS and Code.
 nav: true
 nav_order: 1
 ---
