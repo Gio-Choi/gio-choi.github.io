@@ -41,15 +41,15 @@
     - title: Research & Data Intern
       maindescription: <i> United Nations </i>
       location: Seoul
-      year: 08.23 - Present
-      description:  
+      year: 08.23-Present
+      description:  Editing. Please refer to the resume.
 
     - title: Technical Engineer Intern
       maindescription: <i> Cisco Systems </i>
       location: Seoul            
       year: 06.23 - 08.23      
       description:
-        - Engaged in a Global Sales internship, actively collaborating with pre-sales professionals and engineers across the Asia Pacific region.
+        - Collaborated with engineers across the Asia Pacific region through Cisco Webex.
         - Leveraged Networking/Cloud knowledge to effectively communicate and demonstrate the value proposition of solutions/products to clients.
         - Taught computer networking fundamentals and guided topology implementation for students at a CSR event.
         - Assisted Cisco API training sessions for clients.
@@ -59,9 +59,9 @@
       location: Indiana, US
       year: 04.22 - 08.22
       description:
-        - Developed the Perception system of Autonomous Vehicle in ROS and Linux.  
+        - Received the Korea government's full-funded scholarship and stipend.
+        - Developed the Perception system of Autonomous Vehicle in ROS and Linux by C++.  
         - Collected video and GPS sensor data, preprocessed in the form of a matrix by 'OpenCV.'
-        - Built the algorithm using 20 classes in C++ and created a map.
         - Published and Presented 'Outdoor Simultaneous Localization and Mapping (SLAM) and Path Planning Algorithm for Mobile Robot’ at the IEEE Conference on Robotic Computing.
 
 
@@ -82,9 +82,12 @@
 - title: Publication
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - <i>Working:</i> <b>ASEAN Gender Outlook 2023</b>:Achieving the SDGs for all and leaving no women or girl behind - As part of the UN Women, Women Count Flagship Programme on Gender Statistics.
     - year: 2022
       items:
-        - <b> IEEE-IRC </b> Outdoor Simultaneous Localization and Mapping (SLAM) and Path Planning algorithm for mobile robot (Seongil Heo, Jueun Mun*, Jiwoong Choi*, Jiwon Park*, Eric T. Matson)         
+        - <b>Outdoor visual SLAM and Path Planning for Mobile-Robot</b>, S. Heo, J. Mun, <b>J. Choi</b>, J. Park and E. T. Matson, 2022 Sixth IEEE International Conference on Robotic Computing (IRC), Italy, 2022, pp. 296-301         
 
 - title: Technical Skills
   type: map
