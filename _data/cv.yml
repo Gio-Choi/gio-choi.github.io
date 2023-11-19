@@ -96,8 +96,10 @@
       value: Python3, C++, R, SQL
     - name: OS & Infra
       value: Linux, Docker, ROS, Git
-    - name: ML & Data Analysis
+    - name: ML & DL
       value: Sci-kit learn, PyTorch, Keras
+    - name: NLP
+      value: BERT, NLTK, LangChain
 
 - title: Fellowships and Honors
   type: time_table
