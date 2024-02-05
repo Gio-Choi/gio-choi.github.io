@@ -29,6 +29,6 @@ I'm currently working for United Nations as a Research and Data Intern.
 
 
 
-Please take a look at my [Projects](/publications/) and [CV](/cv/) and feel free to reach out to me. [jiwung22@gmail.com](mailto:jiwung22@gmail.com) 
+Please take a look at my [Projects](/publications/) and [CV](/cv/) and feel free to reach out to me. [giochoi@uchicago.edu](mailto:giochoi@uchicago.edu) 
 
 
