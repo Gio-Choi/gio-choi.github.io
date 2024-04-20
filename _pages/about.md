@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there. I'm an incoming Master's student in [Computational Social Science](https://macss.uchicago.edu) at [The University of Chicago](https://www.uchicago.edu). I love analyzing society through Data Science. 
 
-I'm currently working for United Nations as a Research and Data Intern.
+I'm currently working for MSCI as a ESG Research Intern.
 
 
 

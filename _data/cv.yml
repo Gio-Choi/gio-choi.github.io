@@ -38,11 +38,22 @@
 - title: Work
   type: time_table
   contents:
+    - title: ESG Research Intern
+      maindescription: <i> MSCI </i>
+      location: Seoul
+      year: 03.24-Present
+      description:  
+
     - title: Research & Data Intern
       maindescription: <i> United Nations </i>
       location: Seoul
-      year: 08.23-Present
-      description:  Editing. Please refer to the resume.
+      year: 08.23-02.24
+      description: 
+       - Conducted ASEAN Gender Outlook research as part of the Women Count Flagship Programme on Statistics, in charge of SDG (Sustainable Development Goals) 4th, 9th, 16th, 17th.
+       - Analyzed the household survey data, such as DHS and MICS data, and visualized the result in R and Python. 
+       - Utilized GIS data in R to find the association between illiteracy and the time required to reach dense areas in Cambodia, Philippines, Myanmar, and Timor-Leste.  
+       - Supported 5 International Forums and Statistics Trainings and wrote the news draft regarding DRR, Climate Change, Femicide, and TF-GBV.
+ 
 
     - title: Technical Engineer Intern
       maindescription: <i> Cisco Systems </i>
