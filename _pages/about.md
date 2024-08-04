@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: UN_photo.JPG
+  image: profile_1.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>555 your office number</p>
@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 <br>
 
 
-Hi there. I'm an incoming Master's student in [Computational Social Science](https://macss.uchicago.edu) at [The University of Chicago](https://www.uchicago.edu). I love analyzing society through Data Science. 
+Hi there. I'm a Master's student in [Computational Social Science](https://macss.uchicago.edu) & Data Science at [The University of Chicago](https://www.uchicago.edu). I am passionate about utilizing data science to analyze social and business issues.
 
-I'm currently working for MSCI as a ESG Research Intern.
+I'm currently working for MSCI as a Sustainability & Climate Research Intern.
 
 
 
