@@ -5,4 +5,4 @@ inline: true  #If false, open a new page
 related_posts: false
 ---
 
-I graduated from Kyunghee University with a Bachelor's degree in Economics and a Bachelor's degree in Engineering with a focus on Data Science Track!
+I graduated from Kyunghee University with a Bachelor of Economics and a Bachelor of Engineering in Software Engineering (Data Science Track).
