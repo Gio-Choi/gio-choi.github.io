@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there. I'm a Master's student in [Computational Social Science](https://macss.uchicago.edu) & Data Science at [The University of Chicago](https://www.uchicago.edu). 
 
-As a Master's candidate dedicated to bridging technology and social science, I am actively seeking a 2025 summer internship in Data Science & Quantitative Research. Please feel free to reach out.
+As a Master's candidate dedicated to bridging technology and social science, I am actively seeking a 2025 summer internship in Data Science & Quantitative Research.
 
 At MSCI Inc., I focused on leveraging Python and machine learning to advance sustainability and climate research. By automating the ratings system and developing a document search tool, I significantly improved efficiency for senior analysts. 
 
