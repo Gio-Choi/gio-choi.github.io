@@ -30,7 +30,7 @@
       #   - Description 1.
       #   - Description 2.
 
-    - title: <a href=https://www.khu.ac.kr/eng/main/index.do> Bachelor of Economics <br> Bachelor of Engineering in Data Science </a>
+    - title: <a href=https://www.khu.ac.kr/eng/main/index.do> Bachelor of Economics <br> Bachelor of Engineering in Software Engineering (Data Science Track) </a>
       institution: Kyung Hee University, Seoul, South Korea
       year: Feb 2024
       
@@ -38,51 +38,51 @@
 - title: Work
   type: time_table
   contents:
-    - title: ESG Research Intern
+    - title: Sustainability & Climate Research Intern
       maindescription: <i> MSCI </i>
       location: Seoul
-      year: 03.24-Present
-      description:  
+      year: 03.24-08.24
+      description: 
+       - Led a pilot project to automate the ratings system through data crawling, API utilization, SVM, and LLM fine- tuning in Python, successfully transitioning the project into one of the initiatives within the APAC Research team
+       - Developed a Python-based document search tool using OOP principles (3000+ lines of code) to streamline retrieval of sentences with specified keywords from internal databases (e.g., 10-K and corporate reports), significantly reducing manual review time for dozens of senior analysts
+       - Co-authored a Korea market report on ‘Korea Discount’ & Corporate Governance (client access only)
+       - Automated due diligence, web scrapping, corporate report translation, GIS & asset mapping using Python  
 
     - title: Research & Data Intern
       maindescription: <i> United Nations </i>
       location: Seoul
       year: 08.23-02.24
       description: 
-       - Conducted ASEAN Gender Outlook research as part of the Women Count Flagship Programme on Statistics, in charge of SDG (Sustainable Development Goals) 4th, 9th, 16th, 17th.
-       - Analyzed the household survey data, such as DHS and MICS data, and visualized the result in R and Python. 
-       - Utilized GIS data in R to find the association between illiteracy and the time required to reach dense areas in Cambodia, Philippines, Myanmar, and Timor-Leste.  
-       - Supported 5 International Forums and Statistics Trainings and wrote the news draft regarding DRR, Climate Change, Femicide, and TF-GBV.
- 
+       - Co-authored a publication with statisticians, leading the 4th, 9th, 16th, and 17th SDGs. Responsibilities included hypothesis testing, dataset collection, data analysis in R and Python, and data visualization. (To be published Sep.)
+       - Prepared statistics for international conferences and internal reports using household survey microdata (DHS & MICS)
+       - Delivered statistics training for 20+ government officials across 10 ASEAN countries, providing instruction in the R programming language from basic syntax to fundamental statistics and logistic regressions
 
     - title: Technical Engineer Intern
       maindescription: <i> Cisco Systems </i>
       location: Seoul            
       year: 06.23 - 08.23      
       description:
-        - Collaborated with engineers across the Asia Pacific region through Cisco Webex.
-        - Leveraged Networking/Cloud knowledge to effectively communicate and demonstrate the value proposition of solutions/products to clients.
-        - Taught computer networking fundamentals and guided topology implementation for students at a CSR event.
-        - Assisted Cisco API training sessions for clients.
+        - Leveraged Computer Networking/Cloud knowledge to effectively communicate and demonstrate the value proposition of solutions/products to clients with Engineering/Sales team across APAC
+        - Taught computer networking fundamentals and guided topology implementation for students at a CSR event
+        - Facilitated the development of a Chatbot using Cisco Webex during a training session for stakeholders
 
     - title: Visiting Scholar, Department of Computer & IT
       maindescription: <i> Purdue University, West Lafayette  </i>
       location: Indiana, US
       year: 04.22 - 08.22
       description:
-        - Received the Korea government's full-funded scholarship and stipend.
-        - Developed the Perception system of Autonomous Vehicle in ROS and Linux by C++.  
-        - Collected video and GPS sensor data, preprocessed in the form of a matrix by 'OpenCV.'
-        - Published and Presented 'Outdoor Simultaneous Localization and Mapping (SLAM) and Path Planning Algorithm for Mobile Robot’ at the IEEE Conference on Robotic Computing.
-
+        - § Developed the perception system for Autonomous Vehicles using ROS and Linux with C++
+        - § Selected as a national scholar in Computer Science to conduct research with a full scholarship and stipend.
+        - § Co-authored a research paper, published at IEEE International Conference on Robotic Computing (IRC), Italy, 2022
 
     - title: IT Audit Intern
       maindescription: <i> PricewaterhouseCoopers (PwC) SAMIL </i>
       location: Seoul  
       year: 01.22 - 02.22
       description:
-       - Cleansed and Preprocessed the financial statements data of 60 companies in SQL. 
-       - Developed the code to ETL (Extract, Transform, Load) data utilizing VBA & Excel.
+       - Cleansed and preprocessed large-scale ledger data from 60 Korean companies, using SQL, VBA, and Excel 
+       - Assisted auditors and gained proficiency in interpreting Financial Statements
+
 
     - title: Police Sergent
       maindescription: <i> National Police Agency / ROK Conscripted Military Service </i>
@@ -93,9 +93,10 @@
 - title: Publication
   type: time_table
   contents:
-    - year: 2023
+    - year: 2024
       items:
-        - <i>Working:</i> <b>ASEAN Gender Outlook 2023</b>:Achieving the SDGs for all and leaving no women or girl behind - As part of the UN Women, Women Count Flagship Programme on Gender Statistics.
+        - <b>Korea discount and corporate governance </b>, SK Kim, Ye Jun Kim, <b>Gio (Jiwoong) Choi<b/>, <b> MSCI Inc. </b> 
+        - <b>ASEAN Gender Outlook 2024</b>:Achieving the SDGs for all and leaving no women or girl behind, <b> United Nations </b>
     - year: 2022
       items:
         - <b>Outdoor visual SLAM and Path Planning for Mobile-Robot</b>, S. Heo, J. Mun, <b>J. Choi</b>, J. Park and E. T. Matson, 2022 Sixth IEEE International Conference on Robotic Computing (IRC), Italy, 2022, pp. 296-301         
