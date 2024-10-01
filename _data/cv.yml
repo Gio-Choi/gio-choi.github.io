@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Name
-      value: Jiwoong (Gio) Choi
+      value: Gio (Jiwoong)) Choi
     - name: Email
       value: <a href=mailto:giochoi@uchicago.edu> giochoi@uchicago.edu </a>
     - name: Url
@@ -38,7 +38,7 @@
 - title: Work
   type: time_table
   contents:
-    - title: Sustainability & Climate Research Intern
+    - title: Research Intern
       maindescription: <i> MSCI Inc.</i>
       location: Seoul
       year: 03.24-08.24
@@ -53,8 +53,8 @@
       location: Seoul
       year: 08.23-02.24
       description: 
-       - Co-authored a publication with statisticians, leading the 4th, 9th, 16th, and 17th SDGs. Responsibilities included hypothesis testing, dataset collection, data analysis in R and Python, and data visualization. (To be published Sep.)
-       - Prepared statistics for international conferences and internal reports using household survey microdata (DHS & MICS)
+       - Led research on the status of SDGs in the ASEAN region, focusing on Sustainable Development Goal (SDG) 4, 9, 16, and 17. (Hypothesis testing, Dataset collection, Data analysis in R and Python, and Data visualization)
+       - Prepared statistics for over 5 international conferences using household survey microdata (DHS & MICS)
        - Delivered statistics training for 20+ government officials across 10 ASEAN countries, providing instruction in the R programming language from basic syntax to fundamental statistics and logistic regressions
 
     - title: Technical Engineer Intern
@@ -62,7 +62,7 @@
       location: Seoul            
       year: 06.23 - 08.23      
       description:
-        - Leveraged Computer Networking/Cloud knowledge to effectively communicate and demonstrate the value proposition of solutions/products to clients with Engineering/Sales team across APAC
+        - Leveraged Computer Networking & Cloud knowledge to effectively communicate and demonstrate the value proposition of solutions/products to clients with Engineering/Sales team across APAC
         - Taught computer networking fundamentals and guided topology implementation for students at a CSR event
         - Facilitated the development of a Chatbot using Cisco Webex during a training session for stakeholders
 
@@ -71,9 +71,10 @@
       location: Indiana, US
       year: 04.22 - 08.22
       description:
-        - Developed the perception system for Autonomous Vehicles using ROS and Linux with C++
-        - Selected as a national scholar in Computer Science to conduct research with a full scholarship and stipend.
-        - Co-authored a research paper, published at IEEE International Conference on Robotic Computing (IRC), Italy, 2022
+        - Developed a Perception system for Autonomous Vehicles on ROS & Linux at a Jetson Nano computer
+        - Tested LiDar, RGB-D cameras, & GPS sensor, and collected & preprocessed raw data
+        - Explored optimization methods for cost functions, experimenting to find the optimal weighting
+        - Developed 3 C++ classes and integrated them into the ORB-SLAM2 backbone system
 
     - title: IT Audit Intern
       maindescription: <i> PricewaterhouseCoopers (PwC) SAMIL </i>
@@ -95,11 +96,11 @@
   contents:
     - year: 2024
       items:
-        - <b>Korea discount and corporate governance</b>, SK Kim, Ye Jun Kim, <b>Gio (Jiwoong) Choi<b/>, <b>MSCI Inc. </b> 
-        - <b>ASEAN Gender Outlook 2024</b>- Achieving the SDGs for all and leaving no women or girl behind, <b> United Nations </b>
+        - Kim, SK, et al. "Korea Discount and Corporate Governance." MSCI Inc., 2024. 
+        - Duerto-Valero, Sara, et al. "ASEAN Gender Outlook 2024." UN General Assembly (UNGA), Sept. 27, 2024. 
     - year: 2022
       items:
-        - <b>Outdoor visual SLAM and Path Planning for Mobile-Robot</b>, S. Heo, J. Mun, <b>J. Choi</b>, J. Park and E. T. Matson, 2022 Sixth IEEE International Conference on Robotic Computing (IRC), Italy, 2022, pp. 296-301         
+        - Heo, Seongil, et al. "Outdoor visual SLAM and Path Planning for Mobile-Robot." In <i> 2022 Sixth IEEE International Conference on Robotic Computing (IRC) </i>, pp. 296-301. IEEE, 2022. 
 
 - title: Technical Skills
   type: map
@@ -107,18 +108,22 @@
     - name: Language
       value: Python3, C++, R, SQL
     - name: OS & Infra
-      value: Linux, Docker, ROS, Git
+      value: Linux, Docker, Git, AWS
     - name: ML & DL
-      value: Sci-kit learn, PyTorch, Keras
+      value: Scikit-learn, PyTorch, TensorFlow, Keras
     - name: NLP
       value: BERT, NLTK, LangChain
 
 - title: Fellowships and Honors
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - Maroon Research Scholarship, The University of Chicago
+
     - year: 2023
       items:
-        - Bright Society Fellowship, Kyung Hee University 
+        - Bright Society Scholarship, Kyung Hee University 
 
     - year: 2022
       items:
@@ -127,8 +132,8 @@
 
     - year: 2021
       items: 
-        - Bright Society Fellowship, Kyung Hee University
-        - Software-Membership Fellowship, Kyung Hee University
+        - Bright Society Scholarship, Kyung Hee University
+        - Software-Membership Scholarship, Kyung Hee University
         - Public Data Analysis Certificate, National IT Industry Promotion Agency
         - Big Data, AI education Certificate & Top Prize (160 hours), Seoul Business Agency
      
