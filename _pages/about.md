@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there. Welcome to my website! I'm a Master's student in [Computational Social Science](https://macss.uchicago.edu) & Data Science at [The University of Chicago](https://www.uchicago.edu). 
 
-My current research interests are multi-agent-based modeling and AI interpretability.
+My research interests are multi-agent-based modeling and AI interpretability. As a research assistant at the [Knowledge Lab](https://knowledgelab.org) under [Prof. James Evans](https://news.uchicago.edu/profile/james-evans), I am dedicated to advancing my knowledge in these areas.
 
 I aim to leverage my expertise in bridging technology and finance, driven by my passion for the finance domain. For example, at MSCI Inc., I led a pilot project to automate the ratings system using data crawling and machine learning with Python. Additionally, I developed a document search tool for materials such as 10-K filings and Codes of Conduct, significantly enhancing efficiency for senior analysts.
 
