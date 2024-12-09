@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile_1.jpg
+  image: profile_dc.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>555 your office number</p>
@@ -21,11 +21,11 @@ social: true  # includes social icons at the bottom of the page
 <br>
 
 
-Hi there. I'm a Master's student in [Computational Social Science](https://macss.uchicago.edu) & Data Science at [The University of Chicago](https://www.uchicago.edu). 
+Hi there. Welcome to my website! I'm a Master's student in [Computational Social Science](https://macss.uchicago.edu) & Data Science at [The University of Chicago](https://www.uchicago.edu). 
 
-As a Master's candidate dedicated to bridging technology and social science, I am actively seeking a 2025 summer internship in Data Science & Quantitative Research.
+My current research interests are multi-agent-based modeling and AI interpretability.
 
-At MSCI Inc., I focused on leveraging Python and machine learning to advance sustainability and climate research. By automating the ratings system and developing a document search tool, I significantly improved efficiency for senior analysts. 
+I aim to leverage my expertise in bridging technology and finance, driven by my passion for the finance domain. For example, at MSCI Inc., I led a pilot project to automate the ratings system using data crawling and machine learning with Python. Additionally, I developed a document search tool for materials such as 10-K filings and Codes of Conduct, significantly enhancing efficiency for senior analysts.
 
 Please take a look at my [Projects](/publications/) and [CV](/cv/) and feel free to reach out to me. [giochoi@uchicago.edu](mailto:giochoi@uchicago.edu) 
 

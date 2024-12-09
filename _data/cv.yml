@@ -38,14 +38,20 @@
 - title: Work
   type: time_table
   contents:
-    - title: Research Intern
+    - title: Research Assistant
+      maindescription: <a href=https://knowledgelab.org> <i> Knowledge Lab </i> </a>
+      location: Seoul
+      year: 09.24-Present
+      description: 
+        - Developed and implemented a multi-agent simulation framework using AutoGen & LLMs (e.g. Llama 3.1 70B) to predict future scholarly collaborations and research topics based on historical publication data.
+  
+    - title: Research Intern – Data & Sustainability
       maindescription: <i> MSCI Inc.</i>
       location: Seoul
       year: 03.24-08.24
       description: 
-       - Led a pilot project to automate the ratings system through data crawling, API utilization, SVM, and LLM fine- tuning in Python, successfully transitioning the project into one of the initiatives within the APAC Research team
-       - Developed a Python-based document search tool using OOP principles (3000+ lines of code) to streamline retrieval of sentences with specified keywords from internal databases (e.g., 10-K and corporate reports), significantly reducing manual review time for dozens of senior analysts
-       - Co-authored a Korea market report on ‘Korea Discount’ & Corporate Governance (client access only)
+       - Led a pilot project to automate the ratings system through data crawling, API communication, SVM, AI model fine-tuning in Python, successfully transitioning the project into a main initiative within the APAC Research team
+       - Developed a Python-based document search tool using OOP paradigm (3000+ lines of code) to streamline retrieval of sentences with specified keywords from internal databases (e.g., 10-K and corporate reports), significantly reducing manual review time for dozens of senior analysts
        - Automated due diligence, web scrapping, corporate report translation, GIS & asset mapping using Python  
 
     - title: Research & Data Intern
@@ -64,7 +70,6 @@
       description:
         - Leveraged Computer Networking & Cloud knowledge to effectively communicate and demonstrate the value proposition of solutions/products to clients with Engineering/Sales team across APAC
         - Taught computer networking fundamentals and guided topology implementation for students at a CSR event
-        - Facilitated the development of a Chatbot using Cisco Webex during a training session for stakeholders
 
     - title: Visiting Scholar, Department of Computer & IT
       maindescription: <i> Purdue University, West Lafayette  </i>
@@ -73,7 +78,6 @@
       description:
         - Developed a Perception system for Autonomous Vehicles on ROS & Linux at a Jetson Nano computer
         - Tested LiDar, RGB-D cameras, & GPS sensor, and collected & preprocessed raw data
-        - Explored optimization methods for cost functions, experimenting to find the optimal weighting
         - Developed 3 C++ classes and integrated them into the ORB-SLAM2 backbone system
 
     - title: IT Audit Intern
@@ -82,11 +86,10 @@
       year: 01.22 - 02.22
       description:
        - Cleansed and preprocessed large-scale ledger data from 60 Korean companies, using SQL, VBA, and Excel 
-       - Assisted auditors and gained proficiency in interpreting Financial Statements
 
 
     - title: Police Sergent
-      maindescription: <i> National Police Agency / ROK Conscripted Military Service </i>
+      maindescription: <i> National Police Agency / Republic of Korea Conscripted Military Service </i>
 
       location: Seoul
       year: 2018 - 2020
@@ -96,8 +99,8 @@
   contents:
     - year: 2024
       items:
-        - Kim, SK, et al. "Korea Discount and Corporate Governance." MSCI Inc., 2024. 
         - Duerto-Valero, Sara, et al. "ASEAN Gender Outlook 2024." UN General Assembly (UNGA), Sept. 27, 2024. 
+        - Kim, SK, et al. "Korea Discount and Corporate Governance." MSCI Inc., 2024.         
     - year: 2022
       items:
         - Heo, Seongil, et al. "Outdoor visual SLAM and Path Planning for Mobile-Robot." In <i> 2022 Sixth IEEE International Conference on Robotic Computing (IRC) </i>, pp. 296-301. IEEE, 2022. 
@@ -105,21 +108,18 @@
 - title: Technical Skills
   type: map
   contents:
-    - name: Language
-      value: Python3, C++, R, SQL
-    - name: OS & Infra
-      value: Linux, Docker, Git, AWS
-    - name: ML & DL
-      value: Scikit-learn, PyTorch, TensorFlow, Keras
-    - name: NLP
-      value: BERT, NLTK, LangChain
+    - name: Programming
+      value: Python (PyTorch, Pandas, Numpy), C/C++ (OOP, multi-threading), SQL
+    - name: Miscellaneous
+      value: Linux, Docker, Git, GIS, Visualization (Matplotlib), Natural Language Processing
+
 
 - title: Fellowships and Honors
   type: time_table
   contents:
     - year: 2024
       items:
-        - Maroon Research Scholarship, The University of Chicago
+        - Maroon Research Scholarship, The University of Chicago ($60,000)
 
     - year: 2023
       items:
@@ -143,11 +143,11 @@
   type: nested_list
   contents:
     - title: Math & Statistics
-      items: Calculus 1, Calculus 2, Linear Algebra, Differential Equations, Data Science, Data Mining, Statistics of Big Data, Probability and Random Variables, Applied Statistics, Financial Data Analysis        
+      items: Calculus 1, Calculus 2, Linear Algebra, Differential Equations, Statistics of Big Data, Probability and Random Variables, Applied Statistics, Financial Data Analysis        
     - title: Economics
-      items: Principle of Economics, Mathematics for Economics, Principle of Economics 2, Economic Statistics, Econometrics, Microeconomics, Macroeconomics, Theory of Financial Systems, Principles of Market Economy, Start-Ups and Capital Market, Economics of Money, Banking & Financial Markets, Capstone Design (Economics), Global Market and Business, Special Topics on Finance
+      items: Economic Statistics, Econometrics, Microeconomics, Macroeconomics, Theory of Financial Systems, Start-Ups and Capital Market, Economics of Money, Banking & Financial Markets, Global Market and Business, Special Topics on Finance
     - title: Computer Science & Engineering
-      items: Object-oriented Programming, Data Structures, Algorithm Analysis, Machine Learning, Data Analysis Capstone Design, Web and Python Programming, Design Thinking, Software coding for creative thinking, Capstone Design in Software Convergence Engineering, Software Development Methods and Tools
+      items: Advanced C Programming, Object-oriented Programming, Data Structures, Algorithm Analysis, Machine Learning, Web and Python Programming, Design Thinking, Software Development Methods and Tools (Linux & Docker)
 
 - title: Teaching
   type: map
