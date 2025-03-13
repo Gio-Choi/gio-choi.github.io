@@ -21,12 +21,12 @@ social: true  # includes social icons at the bottom of the page
 <br>
 
 
-Hi there. Welcome to my website! I'm a Master's student in [Computational Social Science](https://macss.uchicago.edu) & Data Science at [The University of Chicago](https://www.uchicago.edu). 
+Hi there. Welcome to my website! I'm currently pursuing a Master's in [Computational Social Science](https://macss.uchicago.edu) at [The University of Chicago](https://www.uchicago.edu), having earned a Bachelor of Engineering in Computer Science and Bachelor of Arts in Economics. 
 
-My research interests are multi-agent-based modeling and AI interpretability. As a research assistant at the [Knowledge Lab](https://knowledgelab.org) under [Prof. James Evans](https://news.uchicago.edu/profile/james-evans), I am dedicated to advancing my knowledge in these areas.
+My research spans multi-agent-based modeling, causal inference, and automated social science. In my journey to discover my true research passion, I’ve explored various fields through internships at Cisco, MSCI (Morgan Stanley Capital International), the United Nations, and PwC.
 
-I aim to leverage my expertise in bridging technology and finance, driven by my passion for the finance domain. For example, at MSCI Inc., I led a pilot project to automate the ratings system using data crawling and machine learning with Python. Additionally, I developed a document search tool for materials such as 10-K filings and Codes of Conduct, significantly enhancing efficiency for senior analysts.
+These experiences inspired me to enroll in the Computational Social Science program at UChicago, where I’m actively working on innovative projects as a research assistant at the [Knowledge Lab](https://knowledgelab.org) under [Prof. James Evans](https://news.uchicago.edu/profile/james-evans).
 
-Please take a look at my [Projects](/publications/) and [CV](/cv/) and feel free to reach out to me. [giochoi@uchicago.edu](mailto:giochoi@uchicago.edu) 
+Please take a look at my [Projects](/publications/) (last updated Aug. 2024)  and [CV](/cv/), and feel free to reach out to me. [giochoi@uchicago.edu](mailto:giochoi@uchicago.edu) 
 
 
