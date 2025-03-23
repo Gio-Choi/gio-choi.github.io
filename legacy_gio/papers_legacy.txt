@@ -1,0 +1,47 @@
+@article{Thesis,    
+  title={Stock Market Regime Analysis}, 
+  journal={Bachelor's Thesis}, 
+  abstract={- Analyzed stock market regimes of the United States using 10 macroeconomic indicators, specifically focusing on the Financial Stress Index(<b>FSI</b>). <br> - Developed a classification model to identify bear and bull markets based on FSI changes. <br> - Achieved 85.96% prediction accuracy in the test set data, utilizing a <b>RandomForest</b> and <b>Deep Neural Network(DNN)</b> and implementing techniques to prevent overfitting.},
+  year={2023},
+  code={https://github.com/Gio-Choi/Stock_Regime_Analysis},      
+  selected={true},
+  preview={stock_regime.png}  
+  }
+
+
+@article{Capstone,    
+  title={Panel Regression Analysis about the influence ESG Management has on Enterprise Value}, 
+  journal={Capstone Project}, 
+  year={2021},  
+  month={June},
+  abstract={- Conducted Linear Regression Analysis to discern a postive relation between corporate value and ESG movement. <br> - Collected Financial Statement data of 898 companies from 2016 to 2020 by crawling in Python3. <br> - Utilized three Panel Data Regression methods: Pooled OLS, Fixed Effects, Random Effects in <b>STATA</b>. <br> - Compared model through F-test, Hausman test, and LM test. },
+  selected={false},
+  preview ={Capstone.png} 
+}
+
+
+
+
+@article{Capstone,    
+  title={Korean Financial News Sentimental Analysis}, 
+  journal={Capstone Project}, 
+  year={2021},  
+  month={December},
+  abstract={- Aimed to develop a Korean NLP model and Translated the English dataset into Korean by API. <br> - Utilized LSTM and GRU networks by PyTorch first. <br> - Conducted Transfer Learning of BERT multilingual base model for Korean and KoBERT.},
+  code={https://github.com/Gio-Choi/Financial_News_Sentiment_Analysis},      
+  selected={false},
+  preview ={BERT.png} 
+
+  }
+
+
+@article{SBA,    
+  title={Job Recommendation System based on Natural Language Processing(NLP)}, 
+  journal={Seoul Business Agency Hackathon}, 
+  year={2021},  
+  month={February},
+  abstract={- Developed a Job Recommendation System based on Natural Language Processing(NLP) and Contents-Based Filtering(CBF) method, using ‘Scikit-learn’ and ‘KoNLPy’ libraries. <br> - Collected language data through crawling by the ‘Selenium’ library and preprocessed them in Python.},
+  code={https://github.com/Gio-Choi/CBF-Recommendation-System},      
+  selected={false},
+  preview ={Job_Satellite.gif} 
+  }

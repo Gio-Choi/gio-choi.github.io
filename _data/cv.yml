@@ -108,10 +108,10 @@
 - title: Technical Skills
   type: map
   contents:
-    - name: Programming
-      value: Python (PyTorch, Pandas, Numpy), C/C++ (OOP, multi-threading), SQL
-    - name: Miscellaneous
-      value: Linux, Docker, Git, GIS, Visualization (Matplotlib), Natural Language Processing
+    - name: Languages
+      value: Python, C/C++ (OOP, multi-threading), R, SQL
+    - name: Technology
+      value: PyTorch, TensorFlow, Keras, Linux, Slurm, Docker, Git, QGIS
 
 
 - title: Fellowships and Honors
@@ -143,17 +143,19 @@
   type: nested_list
   contents:
     - title: Math & Statistics
-      items: Calculus 1, Calculus 2, Linear Algebra, Differential Equations, Statistics of Big Data, Probability and Random Variables, Applied Statistics, Financial Data Analysis        
-    - title: Economics
-      items: Economic Statistics, Econometrics, Microeconomics, Macroeconomics, Theory of Financial Systems, Start-Ups and Capital Market, Economics of Money, Banking & Financial Markets, Global Market and Business, Special Topics on Finance
+      items: Calculus 1, Calculus 2, Linear Algebra, Differential Equations, Probability and Random Variables, Applied Statistics, Econometrics, Causal Inference
+    - title: Economics & Sociology
+      items: Microeconomics, Macroeconomics & Thinking with Deep Learning for Complex Social & Cultural Data Analysis, Social Theory for the Digital Age
     - title: Computer Science & Engineering
-      items: Advanced C Programming, Object-oriented Programming, Data Structures, Algorithm Analysis, Machine Learning, Web and Python Programming, Design Thinking, Software Development Methods and Tools (Linux & Docker)
+      items: Advanced C Programming, Object-oriented Programming, Data Structures, Algorithm Analysis, Machine Learning, Python Programming, Software Development Methods and Tools (Linux & Docker)
 
 - title: Teaching
   type: map
   contents:
-    - name: Statistics of Big Data
-      value: Teaching Assistant · Spring 2023  & Fall 2021 
+    - name: Grader, Department of Economics, University of Chicago
+      value: ECON 23050 - Artificial Intelligence, Innovation, and Growth (Taught by Professors Ufuk Akcigit and James Evans)
+    - name: Teaching Assistant, Kyung Hee University 
+      value: Statistics of Big Data 
     
 - title: Language
   type: map

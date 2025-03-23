@@ -20,13 +20,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 <br>
 
-
 Hi there. Welcome to my website! My name is Jiwoong Choi, and you can call me Gio. I'm currently pursuing a Master's in [Computational Social Science](https://macss.uchicago.edu) at [The University of Chicago](https://www.uchicago.edu), having earned a Bachelor of Engineering in Computer Science and Bachelor of Arts in Economics. 
 
 My research spans multi-agent-based modeling, causal inference, and automated social science. In my journey to discover my true research passion, I’ve explored various fields through internships at Cisco, MSCI (Morgan Stanley Capital International), the United Nations, and PwC.
 
 These experiences inspired me to enroll in the Computational Social Science program at UChicago, where I’m actively working on innovative projects as a research assistant at the [Knowledge Lab](https://knowledgelab.org) under [Prof. James Evans](https://news.uchicago.edu/profile/james-evans).
 
-Please take a look at my [Projects](/publications/) (last updated Aug. 2024)  and [CV](/cv/), and feel free to reach out to me. [giochoi@uchicago.edu](mailto:giochoi@uchicago.edu) 
+Please take a look at my [Projects](/publications/) (last updated Mar. 2025)  and [CV](https://drive.google.com/file/d/1Mp2MwBcUM1c7_ax3UXmv0DhfPiVn-gX0/view?usp=sharing), and feel free to reach out to me. [giochoi@uchicago.edu](mailto:giochoi@uchicago.edu) 
 
 
