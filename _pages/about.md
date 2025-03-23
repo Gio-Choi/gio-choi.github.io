@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 <br>
 
 
-Hi there. Welcome to my website! I'm currently pursuing a Master's in [Computational Social Science](https://macss.uchicago.edu) at [The University of Chicago](https://www.uchicago.edu), having earned a Bachelor of Engineering in Computer Science and Bachelor of Arts in Economics. 
+Hi there. Welcome to my website! My name is Jiwoong Choi, and you can call me Gio. I'm currently pursuing a Master's in [Computational Social Science](https://macss.uchicago.edu) at [The University of Chicago](https://www.uchicago.edu), having earned a Bachelor of Engineering in Computer Science and Bachelor of Arts in Economics. 
 
 My research spans multi-agent-based modeling, causal inference, and automated social science. In my journey to discover my true research passion, I’ve explored various fields through internships at Cisco, MSCI (Morgan Stanley Capital International), the United Nations, and PwC.
 
