@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Jiwoong (Gio)
+first_name: Gio (Jiwoong)
 middle_name: 
 last_name: Choi
 email: giochoi@uchicago.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Jiwoong (Gio) Choi Portfolio
+ Gio (Jiwoong) Choi Portfolio
 footer_text:  
  
 keywords: jiwoong choi, Gio Choi, data science, computational social science, portfolio-website  # add your own keywords or leave empty
