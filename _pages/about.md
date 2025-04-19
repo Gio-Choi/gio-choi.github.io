@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: v4_profile.png
+  image: v5_profile.png
   image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>555 your office number</p>
