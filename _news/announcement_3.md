@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm delighted to share that I've joined United Nations as a Research and Data Intern! :smile:
+I'm delighted to share that I've joined United Nations as a Research and Data Intern! 
