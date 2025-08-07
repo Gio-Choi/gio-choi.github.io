@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I participated in the [2025 Growth Academy Chicago](https://growthcenter.uchicago.edu/2025-growth-academy-chicago/), organized by the [Global Center for Economic Growth](https://growthcenter.uchicago.edu).
+I participated in the [Growth Academy 2025](https://growthcenter.uchicago.edu/2025-growth-academy-chicago/), organized by the [Global Center for Economic Growth](https://growthcenter.uchicago.edu).
 
