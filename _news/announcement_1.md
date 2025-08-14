@@ -5,4 +5,4 @@ inline: true  #If false, open a new page
 related_posts: false
 ---
 
-I finished my summer internship at Cisco Systems. :sparkles:
+I finished my summer internship at Cisco Systems. 
