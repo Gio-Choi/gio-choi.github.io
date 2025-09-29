@@ -26,6 +26,6 @@ My research spans multi-agent-based modeling, causal inference, and automated so
 
 These experiences inspired me to enroll in the Computational Social Science program at UChicago, where I’m actively working on innovative projects as a research assistant at the [Knowledge Lab](https://knowledgelab.org) under [Prof. James Evans](https://news.uchicago.edu/profile/james-evans).
 
-Please take a look at my [Projects](/publications/) and [CV](https://drive.google.com/file/d/18elLI9OWUe9iell2gJRy6_OydHcbhJZL/view?usp=sharing) ((last updated Sep 2025)), and feel free to reach out to me. [giochoi@uchicago.edu](mailto:giochoi@uchicago.edu) 
+Please take a look at my [Projects](/publications/) and [CV](https://drive.google.com/file/d/18elLI9OWUe9iell2gJRy6_OydHcbhJZL/view?usp=sharing) (last updated Sep 2025), and feel free to reach out to me. [giochoi@uchicago.edu](mailto:giochoi@uchicago.edu) 
 
 
