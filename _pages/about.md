@@ -20,12 +20,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 <br>
 
-Hi there. Welcome to my website! My name is Jiwoong Choi, and you can call me Gio. I'm currently pursuing a Master's in [Computational Social Science](https://macss.uchicago.edu) at [The University of Chicago](https://www.uchicago.edu), having earned a Bachelor of Engineering in Computer Science and Bachelor of Arts in Economics. 
+Hi there. Welcome to my website. My name is Jiwoong Choi, and you can call me Gio. I'm currently pursuing a Master's in [Computational Social Science](https://macss.uchicago.edu) at [The University of Chicago](https://www.uchicago.edu), having earned a Bachelor of Engineering in Computer Science and Bachelor of Arts in Economics. My research focuses on **AI and the science of science**, combining large-scale data analysis, causal inference, and LLM-based simulations to uncover the social and epistemic mechanisms underlying scientific discovery and innovation. Please take a look at my [Projects](/publications/) and [CV](https://drive.google.com/file/d/18elLI9OWUe9iell2gJRy6_OydHcbhJZL/view?usp=sharing) (last updated Sep 2025), and feel free to reach out to me. [giochoi@uchicago.edu](mailto:giochoi@uchicago.edu)
 
-My research spans multi-agent-based modeling, causal inference, and automated social science. In my journey to discover my true research passion, I’ve explored various fields through internships at Cisco, MSCI (Morgan Stanley Capital International), the United Nations, and PwC.
 
-These experiences inspired me to enroll in the Computational Social Science program at UChicago, where I’m actively working on innovative projects as a research assistant at the [Knowledge Lab](https://knowledgelab.org) under [Prof. James Evans](https://news.uchicago.edu/profile/james-evans).
-
-Please take a look at my [Projects](/publications/) and [CV](https://drive.google.com/file/d/18elLI9OWUe9iell2gJRy6_OydHcbhJZL/view?usp=sharing) (last updated Sep 2025), and feel free to reach out to me. [giochoi@uchicago.edu](mailto:giochoi@uchicago.edu) 
 
 
