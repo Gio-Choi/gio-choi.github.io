@@ -5,4 +5,4 @@ inline: true  #If false, open a new page
 related_posts: false
 ---
 
-I joined MSCI as an Sustainability & Climate Research Intern and will continue working until I begin my Master's program this fall.
+I joined MSCI as an Research Intern and will continue working until I begin my Master's program this fall.
