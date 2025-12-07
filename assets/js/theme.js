@@ -98,4 +98,6 @@ let initTheme = (theme) => {
   setTheme(theme);
 };
 
-initTheme(localStorage.getItem("theme"));
+// initTheme(localStorage.getItem("theme")); # test Dec 7 2025
+initTheme("light");
+
