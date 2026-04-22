@@ -18,7 +18,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Master’s student in [Computational Social Science](https://macss.uchicago.edu) at [The University of Chicago](https://www.uchicago.edu). I am fortunate to work at the [Knowledge Lab](https://knowledgelab.org) with Professor [James Evans](https://sociology.uchicago.edu/directory/james-evans) and in the Akcigit Research Team (ART) with Professor [Ufuk Akcigit](https://www.ufukakcigit.com). I’m interested in innovation and scientific discovery, the economic and societal dimensions of AI, and how to design and steer AI as a scholarly companion and a tool for society. 
 
-[Email](mailto:giochoi@uchicago.edu) · [CV](https://drive.google.com/file/d/1xh5HyJ1jqekdZGB2gB3YyfNqUWddBMJY/view?usp=sharing)
-
+[Email](mailto:giochoi@uchicago.edu) · [CV](https://drive.google.com/file/d/1xh5HyJ1jqekdZGB2gB3YyfNqUWddBMJY/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/giochoi22/)
 
 <br>
