@@ -22,6 +22,6 @@ I’m especially drawn to moments when new ideas or technologies rewire how lear
 
 I’m currently a Research Associate at the [Knowledge Lab](https://knowledgelab.org/) at the University of Chicago and a Research Data Scientist at Open Syllabus. I earned my master’s degree in Computational Social Science from the University of Chicago, where I was advised by Professor [James Evans](https://sociology.uchicago.edu/directory/james-evans) and received the Best Thesis Award. My training spans sociology, economics, and computer science.
 
-[Email](mailto:giochoi@uchicago.edu) · [CV](https://drive.google.com/file/d/1xh5HyJ1jqekdZGB2gB3YyfNqUWddBMJY/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/giochoi22/)
+[Email](mailto:giochoi@uchicago.edu) · [CV](https://drive.google.com/file/d/1xh5HyJ1jqekdZGB2gB3YyfNqUWddBMJY/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/giochoi22/) · [Scholar](https://scholar.google.com/citations?user=HMHav-kAAAAJ&hl=en) 
 
 <br>
