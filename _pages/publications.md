@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Projects
-description: For more details, please click on the ABS and Code sections. My full name is Jiwoong Choi, but I go by Gio.
+description: Last updated in April 2026
 nav: true
 nav_order: 1
 ---
