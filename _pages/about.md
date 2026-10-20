@@ -14,7 +14,6 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<br>
 
 I’m interested in how the world learns: how people, organizations, fields, and countries attend to information, interact, generate ideas, and make decisions. My goal is to develop measures and interventions that make these dynamics visible and expand our capacity for learning and innovation.
 
